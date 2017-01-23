@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">Xander Hoyos</string>
+    <string name="telefono">5678900</string>
+    <string name="email">xander@xander.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
